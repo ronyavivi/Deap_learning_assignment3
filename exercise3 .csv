@@ -1,2 +1,0 @@
-,Test score (Accuracy),Train score (Accuracy),Number of trainable parameters,Number of layers,Regularization methods,Number of epochs,Loss function,Optimizer,Embedding dimension
-0,0.8377,0.8559,"591,921",7,"GRU, Dropout",5,binary_crossentropy,adam,32
